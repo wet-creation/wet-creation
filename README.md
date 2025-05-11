@@ -44,7 +44,7 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/michail-nedobitkin-257840226/
+- LinkedIn: https://www.linkedin.com/in/mykhailo-nedobitkin/
 - Email: prog.mnedobitkin@gmail.com
 
 ---
