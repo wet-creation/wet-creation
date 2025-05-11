@@ -11,7 +11,7 @@
 
 - 📱 Android developer with experience building modern, production-ready apps using Jetpack Compose and Kotlin
 - 🧠 Strong understanding of clean architecture, MVVM, and reactive state management (Flow, StateFlow)
-- 🧰 Backend experience with Ktor, SQL (), and secure multi-user systems
+- 🧰 Backend experience with Ktor, Kotrm, MySQL and secure multi-user systems
 - 🛠️ Developed a cross-functional system for an agricultural company with microservices, admin panel, and mobile app
 - 🌍 Always learning — interested in performance optimization, design systems, and platform architecture
 
