@@ -33,15 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wet-creation&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wet-creation&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/mykhailo-nedobitkin/
